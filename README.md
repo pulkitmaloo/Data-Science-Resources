@@ -12,6 +12,10 @@ Some Resources mostly related to Data Science that I find interesting to learn f
 
 <a href="http://colah.github.io/posts/2015-08-Understanding-LSTMs/">Understanding LSTMs</a>
 
+### Code
+
+<a href="https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks#introductory-tutorials">Interesting Jupyter Notebooks</a>
+
 ### Vim
 
 <a href="https://vim.swaroopch.com">A Byte of Vim</a>
