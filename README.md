@@ -12,7 +12,7 @@ Some Resources mostly related to Data Science that I find interesting to learn f
 
 <a href="http://colah.github.io/posts/2015-08-Understanding-LSTMs/">Understanding LSTMs</a>
 
-### Code
+### Tutorials
 
 <a href="https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks#introductory-tutorials">Interesting Jupyter Notebooks</a>
 
@@ -32,4 +32,8 @@ Some Resources mostly related to Data Science that I find interesting to learn f
 <a href="https://github.com/jarun/ddgr#installation">Duck Duck Go</a>
 
 <a href="https://github.com/jarun/googler">Duck Duck Go</a>
+
+<a href="https://github.com/dvorka/hstr">Shell history browser</a>
+
+<a href="https://github.com/jonas/tig">Text-mode interface for Git</a>
 
