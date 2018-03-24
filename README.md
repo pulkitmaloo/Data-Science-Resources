@@ -14,7 +14,13 @@ Some Resources mostly related to Data Science that I find interesting to learn f
 
 ### Tutorials
 
+<a href="http://videolectures.net/Top/Computer_Science/Machine_Learning/">Video Lectures from Summer Schools</a>
+
 <a href="https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks#introductory-tutorials">Interesting Jupyter Notebooks</a>
+
+### Books
+
+<a href="http://www.oreilly.com/data/free/archive.html">Orielly Free Books Archive</a>
 
 ### Vim
 
@@ -36,4 +42,7 @@ Some Resources mostly related to Data Science that I find interesting to learn f
 <a href="https://github.com/dvorka/hstr">Shell history browser</a>
 
 <a href="https://github.com/jonas/tig">Text-mode interface for Git</a>
+
+<a href="https://github.com/nvbn/thefuck">The Fuck</a>
+
 
